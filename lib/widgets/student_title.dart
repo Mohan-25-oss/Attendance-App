@@ -32,7 +32,7 @@ class StudentTile extends StatelessWidget {
         child: Icon(
           isPresent
               ? Icons.check
-              : Icons.close,
+              : Icons.account_box,
           color: Colors.white,
         ),
       ),
